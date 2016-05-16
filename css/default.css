@@ -1,1 +1,67 @@
+@charset#UTF-8";
+
+h1{
+  
+}
+
+#LBcard{
+  border:2px solid lightcoral;
+  border-collapse:collapse;
+}
+
+#notLBcard{
+  border:2px solid lightcoral;
+  border-collapse:collapse;
+}
+
+caption{
+  padding:5px;
+}
+
+thead th, tfoot th{
+  background-color : white;
+}
+
+thead th{
+  border: 1px solid lightcoral;
+  background-color : mistyrose;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+thead td{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 80px;
+  text-align: right;
+}
+
+.botton{
+  -webkit-apparance: none;
+  -webkit-border-radius:0;
+  margin:8px;
+  width:150px;
+  height:50px;
+  padding:10px;
+  border:none;
+  font-size:20px; 
+}
+
+.botton:{
+  opacity:0.7;
+}
+
+.botton:{
+  color:white;
+}
+
+.botton:{
+  background-color : yellow;
+}
+
+.botton:{
+  background-color : red;
+}
+
 
